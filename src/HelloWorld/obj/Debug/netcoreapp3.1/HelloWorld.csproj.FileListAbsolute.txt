@@ -1,0 +1,14 @@
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\CodeCoolGenerali\hello-word-oop-KrigerGabor\src\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
